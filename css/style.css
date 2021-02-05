@@ -79,8 +79,40 @@ table thead {
   color: white;
 }
 
+table th {
+  text-align: left;
+}
+
 .row-odd {
   background-color: lightblue;
 }
 
 /* Fine Main */
+
+/* Footer */
+footer {
+  margin-top: 20px;
+}
+
+footer h3 {
+  color: gray;
+}
+
+.img-container {
+  width: 300px;
+  height: 200px;
+  color: white;
+  background-size: cover;
+  font-size: 20px;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+#img-monitor {
+  background-image: url("../img/monitor.jpg");
+}
+
+#img-graph {
+  background-image: url("../img/graph.jpg");
+}
+/* Fine Footer */
