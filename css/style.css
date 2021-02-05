@@ -1,0 +1,26 @@
+/* Reset */
+* {
+  margin: 0px;
+}
+/* Fine Reset */
+
+/* Common */
+/* Fine Common */
+
+/* Header */
+header {
+  background-color: lightblue;
+  background-image: url("../img/pattern.png");
+  background-size: 400px;
+}
+
+.logo-img {
+  width: 200px;
+  margin-top: 30px;
+}
+
+.container {
+  width: 1024px;
+  margin: auto;
+}
+/* Fine Header */
