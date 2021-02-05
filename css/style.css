@@ -5,6 +5,14 @@
 /* Fine Reset */
 
 /* Common */
+.container {
+  width: 1024px;
+  margin: auto;
+}
+
+.highlight {
+  background-color: yellow;
+}
 /* Fine Common */
 
 /* Header */
@@ -18,9 +26,43 @@ header {
   width: 200px;
   margin-top: 30px;
 }
-
-.container {
-  width: 1024px;
-  margin: auto;
-}
 /* Fine Header */
+
+/* Main */
+main h1 {
+  font-size: 40px;
+  line-height: 40px;
+}
+
+main {
+  margin-top: 20px;
+}
+
+.author {
+  color: gray;
+  font-size: 20px;
+}
+
+.date {
+  color: gray;
+  font-size: 12px;
+}
+
+.author span {
+  color: blue;
+}
+
+.photos {
+  margin-top: 20px;
+}
+
+.caption {
+  font-size: 10px;
+}
+
+.paragraph,
+ul {
+  margin-top: 20px;
+}
+
+/* Fine Main */
